@@ -9,7 +9,7 @@ I've shipped features in real team codebases using feature branches, pull reques
 - **Languages:** HTML5 · CSS3 · JavaScript (ES6+) · TypeScript
 - **Frameworks & UI:** React · Next.js · Tailwind CSS · Material UI · Bootstrap
 - **State & Data:** TanStack Query · Redux Toolkit · Zustand · Context API · Axios · REST APIs
-- **Forms & Validation:** Zod · Formik · Yup
+- **Forms & Validation:** Zod · React Hook Form 
 - **Practices:** Atomic Design · Responsive Design · i18n (next-intl) · Dark Mode
 - **Tools:** Git · GitHub · Git Flow · VS Code · Chrome DevTools · Postman · Figma
 
