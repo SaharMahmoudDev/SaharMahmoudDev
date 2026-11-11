@@ -44,5 +44,5 @@ I've shipped features in real team codebases using feature branches, pull reques
 - **Portfolio:** https://sahar-portfolio.webcraft-labs.workers.dev/
 - **LinkedIn:** https://www.linkedin.com/in/saharmahmoud-dev
 - **Email:** saharmahmoud0101@gmail.com
-- **CV:** https://drive.google.com/file/d/15dmxk4sPBNmaX97a7pgB-q4-XODGT554/view?usp=sharing
+- **CV:** https://drive.google.com/file/d/1HrppLgL9OzjGeIlen8SKBsv5B3b8hC3M/view?usp=sharing
 
